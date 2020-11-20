@@ -3,7 +3,7 @@ Flutter application for live tracking the crypto- currency rate with actual time
 Used api.coingecko.com Api for data.
 
 
-<a href="https://drive.google.com/file/d/1qiM7eO1Bl_gKShsNtE6mmfbJnbrWOHc_/view?usp=sharing"> Click here Video App Demo </a>
+<a href="https://drive.google.com/file/d/1qiM7eO1Bl_gKShsNtE6mmfbJnbrWOHc_/view?usp=sharing"> Click here for Video App Demo </a>
 
 ![Screenshot_1602965918](https://user-images.githubusercontent.com/49837673/96352951-5dab6180-10e5-11eb-8c44-ec5ad1006dfa.png)
 
